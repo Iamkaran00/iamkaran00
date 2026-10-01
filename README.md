@@ -81,7 +81,7 @@ React · Redux · Mantine · Node · MongoDB
 | **Learning** | Docker · Generative AI |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,npm,cloudinary,redis,docker&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,npm,redis,docker&perline=11" />
 </p>
 
 <br />
