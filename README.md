@@ -81,7 +81,7 @@ React · Redux · Mantine · Node · MongoDB
 | **Learning** | Docker · Generative AI |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,docker&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,render,redis,docker&perline=11" />
 </p>
 
 <br />
@@ -91,8 +91,8 @@ React · Redux · Mantine · Node · MongoDB
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamkaran00&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamkaran00&show_icons=true&hide_border=true" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaran00&layout=compact&hide_border=true&theme=github_dark" />
