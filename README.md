@@ -107,4 +107,4 @@ React · Redux · Mantine · Node · MongoDB
 
 If you're hiring, have a hard problem, or want to build something together, I'd like to hear from you.
 
-📫 [YOUR_EMAIL](mailto:sahukaran6954@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/karan-sahu7)
+📫 [sahukaran6954@gmail.com](mailto:sahukaran6954@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/karan-sahu7)
