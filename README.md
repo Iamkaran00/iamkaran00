@@ -87,20 +87,27 @@ React · Redux · Mantine · Node · MongoDB
 ## GitHub stats
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamkaran00&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamkaran00&show_icons=true&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaran00&layout=compact&hide_border=true&theme=github_dark" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaran00&layout=compact&hide_border=true" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamkaran00&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117" />
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamkaran00&show_icons=true&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaran00&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaran00&layout=compact&hide_border=true" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iamkaran00&hide_border=true&theme=tokyonight&background=0d1117" />
+    <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=iamkaran00&hide_border=true" />
+  </picture>
 </div>
 
-<br />
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamkaran00/iamkaran00/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/iamkaran00/iamkaran00/output/github-snake.svg" />
+  </picture>
+</p>
 ## Let's talk
 
 If you're hiring, have a hard problem, or want to build something together, I'd like to hear from you.
