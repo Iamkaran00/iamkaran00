@@ -36,13 +36,11 @@ I build full-stack apps end to end: UI, API, database and deployment. I care abo
 
 ### 🎓 CodevolveX
 
-<!-- ONE SHARP LINE: who it's for and what problem it solves. Example: "A learning platform where instructors publish courses and students learn at their own pace." -->
-A full-stack learning management platform built as my main portfolio project.
+A learning platform where instructors build and publish video courses, and students buy, watch and track them, with real payments and instructor analytics.
 
-<!-- Replace with your real features -->
-- **Courses & learning flow:** _add feature_
-- **Role-based access:** _add feature_
-- **Auth & security:** _add feature_
+- **Courses & learning flow:** Searchable catalogue, course detail pages, cart and Razorpay checkout, a video player with per-lecture progress, ratings and reviews, and PDF purchase receipts. Instructors get a multi-step course builder with sections and lectures, plus a Recharts analytics dashboard.
+- **Role-based access:** Separate student and instructor experiences, with an admin course-review workflow (approve or reject before a course goes live) in progress.
+- **Auth & security:** JWT-based authentication, server-verified payments through Razorpay, and transactional email through Brevo.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
