@@ -87,7 +87,10 @@ A learning platform where instructors build and publish video courses, and stude
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkaran00&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamkaran00/iamkaran00/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/iamkaran00/iamkaran00/output/github-snake.svg" />
+  </picture>
 </p>
 
 <br />
