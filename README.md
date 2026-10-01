@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/karan-sahu7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:sahukaran6954@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -52,7 +52,7 @@ A full-stack learning management platform built as my main portfolio project.
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-[**Live demo**](https://YOUR_LIVE_DEMO_URL) &nbsp;·&nbsp; [**Source code**](https://github.com/YOUR_USERNAME/CodevolveX)
+[**Live demo**](https://codevolvx.vercel.app) &nbsp;·&nbsp; [**Source code**](https://github.com/iamkaran00/CodevolveX)
 
 <!--
 OPTIONAL: add a screenshot or short GIF of CodevolveX here.
@@ -95,8 +95,8 @@ React · Redux · Mantine · Node · MongoDB
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaran00&layout=compact&hide_border=true&theme=github_dark" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaran00&layout=compact&hide_border=true" />
 </picture>
 
 </div>
@@ -107,4 +107,4 @@ React · Redux · Mantine · Node · MongoDB
 
 If you're hiring, have a hard problem, or want to build something together, I'd like to hear from you.
 
-📫 [YOUR_EMAIL](mailto:YOUR_EMAIL) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/karan-sahu7)
+📫 [YOUR_EMAIL](mailto:sahukaran6954@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/karan-sahu7)
